@@ -1,4 +1,4 @@
-Assignment 2B - React Web Pages
+**Assignment 2B - React Web Pages**
 *DUE: Tuesday, April 2 by 11:59pm, but we will accept the assignment until April 3 at 11:59pm without penalty, if you need the extra day.
 
 Enter both of your names below. If we cannot figure out who did the assignment, we cannot grade it!
