@@ -1,6 +1,7 @@
 import React from 'react';
 
 const Form2: React.FC = () =>{
+
     return(
     <form>
         <p> <b> What do you think? Enter your information below and let me know! </b> </p>
@@ -42,7 +43,7 @@ const Form2: React.FC = () =>{
             <label htmlFor="favInstrument"> From the list of instruments above, which instrument would be your
                 favorite?</label>
             <select id="favInstrument" name="favInstrument">
-                <option hidden disabled selected value> -- select an option --</option>
+                <option hidden disabled selected value=""> -- select an option --</option>
                 <option value="Double Bass"> Double Bass</option>
                 <option value="Piano"> Piano</option>
                 <option value="French Horn"> French Horn</option>

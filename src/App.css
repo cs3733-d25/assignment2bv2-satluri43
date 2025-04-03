@@ -41,3 +41,21 @@
 .read-the-docs {
   color: #888;
 }
+
+.center-img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.table-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+hr{
+  width: 100%
+}
+
+

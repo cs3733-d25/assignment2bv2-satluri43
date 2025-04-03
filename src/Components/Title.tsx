@@ -2,7 +2,7 @@ import React from "react";
 
 const Title: React.FC = () =>{
     return(
-        <header name='title' id='title'>
+        <header id='title'>
             <h1>CS3733-D25 Team 50: Football and Music</h1>
         </header>
     );

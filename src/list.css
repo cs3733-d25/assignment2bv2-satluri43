@@ -3,3 +3,8 @@ li {
     list-style: square;
 }
 
+.list-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
